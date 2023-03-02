@@ -89,7 +89,7 @@ LIMIT 5;
 USE sqlDB;
 -- 조회하면서 새로운 테이블 생성하는 쿼리 
 -- 임시 테이블 만들때 많이 사용
--- PK나 FK 같은 제약 조건은 복사되지 않음
+-- PK나 FK 같은 제약 조건은 복사되지 않음buytbl
 CREATE TABLE elec_buytbl_new
 SELECT num
 	 , prodName

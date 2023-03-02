@@ -14,3 +14,10 @@ IoT 개발자 과정 데이터 베이스 - MySQL
     - DB 모델링
     - MySQL 튜릴리티
     - SQL 기본
+
+
+# 3일차
+1. MySQL 학습
+    - SQL 기본
+    - SQL 고급
+    
